@@ -1,0 +1,8 @@
+.klasa{
+    width: 300px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1 px solid black;
+  }
